@@ -1,0 +1,205 @@
+[
+  {
+    "id": "1",
+    "recipe_id" :"1",
+    "chef_picture": "https://images.unsplash.com/photo-1643834776503-891726ed42c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "short_bio": "Chef John Smith has over 10 years of experience in the culinary industry. He is known for his fusion cuisine and creative use of spices.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "recipe_id" :"2",
+    "chef_picture": "https://images.unsplash.com/photo-1518148750009-25b2522df9c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_name": "Sarah Johnson",
+    "years_of_experience": 7,
+    "number_of_recipes": 35,
+    "short_bio": "Chef Sarah Johnson is a rising star in the culinary world. Her farm-to-table approach and emphasis on fresh, seasonal ingredients have won her many accolades.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "recipe_id" :"3",
+    "chef_picture": "https://images.unsplash.com/photo-1593237101928-6893fda30e05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "chef_name": "Michael Lee",
+    "years_of_experience": 5,
+    "number_of_recipes": 25,
+    "short_bio": "Chef Michael Lee is a classically trained chef with a passion for American cuisine. He has worked in some of the best restaurants in New York City and now runs his own successful Italian restaurant.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "recipe_id" :"4",
+    "chef_picture": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_name": "Emily Davis",
+    "years_of_experience": 8,
+    "number_of_recipes": 40,
+    "short_bio": "Chef Emily Davis is a pastry chef extraordinaire. She has won numerous awards for her creative and delicious desserts and has published several cookbooks.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "recipe_id" :"5",
+    "chef_picture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "chef_name": "David Brown",
+    "years_of_experience": 12,
+    "number_of_recipes": 60,
+    "short_bio": "Chef David Brown is a master of American cuisine. He trained in Paris and has worked in some of the best French restaurants in the world. His attention to detail and passion for cooking have earned him a Michelin star.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "recipe_id" :"6",
+    "chef_picture": "https://images.unsplash.com/photo-1669707569583-8d4c8051130a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "chef_name": "Jessica Wilson",
+    "years_of_experience": 3,
+    "number_of_recipes": 20,
+    "short_bio": "Chef Jessica Wilson is a young and talented chef who specializes in vegan cuisine. She believes that food should be both delicious and healthy, and her plant-based dishes have won over even the most dedicated meat eaters.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "recipe_id" : "7",
+    "chef_picture": "https://plus.unsplash.com/premium_photo-1661517310448-9d3316820532?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "chef_name": "William Garcia",
+    "years_of_experience": 6,
+    "number_of_recipes": 30,
+    "short_bio": "Chef William Garcia is a Latin American chef with a passion for bold flavors and spices. He has worked in restaurants all over South America and now runs his own successful restaurant in Miami.",
+    "recipes": [
+      {
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": "Ground beef, salt, black pepper, American cheese, hamburger buns",
+        "cooking_method": "Form beef into patties and season with salt and pepper. Cook on a grill or skillet until desired doneness. Add cheese to the patties in the last minute of cooking. Toast the buns and assemble the burger. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "BBQ Ribs",
+        "ingredients": "Pork ribs, BBQ sauce, salt, black pepper, garlic powder",
+        "cooking_method": "Rub the ribs with salt, pepper, and garlic powder. Cook the ribs in a low oven for several hours until tender. Baste with BBQ sauce and cook for another hour. Let the ribs rest before slicing and serving. Delicious!",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Fried Chicken",
+        "ingredients": "Chicken, buttermilk, flour, salt, black pepper, paprika, cayenne pepper",
+        "cooking_method": "Soak the chicken in buttermilk for several hours. Dredge the chicken in seasoned flour and fry until crispy and cooked through. Serve hot with your favorite dipping sauce. Yum!",
+        "rating": 4.8   
+      }
+    ]
+  }
+]
